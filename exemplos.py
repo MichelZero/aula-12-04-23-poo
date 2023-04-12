@@ -1,3 +1,15 @@
+# 
+# autores:
+# Michel
+
+# data: 12
+
+
+# 1.	Como criar um dicionário em Python?
+# R: Para criar um dicionário em Python, 
+# você pode utilizar chaves ({}) e pares 
+# de chave-valor separados por vírgulas. Por exemplo:
+dicionario = {'chave1': 'valor1', 'chave2': 2, 'chave3': 'valor3'}
 
 
 # exemplos de objetos iteráveis utilizando o método pop().
